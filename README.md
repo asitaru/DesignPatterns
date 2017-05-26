@@ -1,1 +1,1 @@
-# This is a repo for the common design patterns that I came across. #
+# This is a repo for the common design patterns that I have came across. #
